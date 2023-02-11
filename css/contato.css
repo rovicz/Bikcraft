@@ -1,0 +1,150 @@
+.interna_clientes {
+  background: url("../img/bg-contato.jpg") no-repeat center;
+  background-size: cover;
+}
+
+/* Formulário */
+
+.orcamento {
+  width: 100%;
+  height: 600px;
+}
+
+.subtitulo-forms {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+  color: #121212;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.subtitulo-forms:after {
+  content: "";
+  display: block;
+  width: 146px;
+  height: 3px;
+  background: #121212;
+  margin: 20px auto;
+  margin-bottom: 50px;
+}
+
+.subtitulo_form {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Oswald", Arial, Helvetica;
+  color: #121212;
+  text-transform: uppercase;
+}
+
+.subtitulo_form:after {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 3px;
+  background: #f29f05;
+  text-align: left;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.form {
+  padding-right: 140px;
+}
+
+.form label {
+  display: block;
+  color: #121212;
+}
+
+.form input {
+  display: block;
+  width: 100%;
+  border: 4px solid #f29f05;
+  padding: 5px 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: "Oswald", Arial, Helvetica;
+  margin-bottom: 10px;
+}
+
+.form textarea {
+  display: block;
+  width: 100%;
+  border: 4px solid #f29f05;
+  padding: 5px 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: "Oswald", Arial, Helvetica;
+  margin-bottom: 10px;
+}
+
+.orcamento_dados span {
+  text-align: left;
+  font-size: 18px;
+  font-family: "Oswald", Arial, Helvetica;
+  display: block;
+  line-height: 25px;
+  margin-bottom: 5px;
+}
+
+.btn-contato {
+  text-align: left;
+  margin-left: -3px;
+  margin-top: 108px;
+}
+
+.orcamento_dados ul li {
+  display: inline-block;
+}
+
+.orcamento_dados ul li a {
+  border: 2px solid #f29f05;
+  display: block;
+  padding: 4px;
+}
+
+button {
+  border: 1px solid #f29f05;
+  padding: 2px 10px;
+  color: #f29f05;
+  background-color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+}
+
+button a {
+  color: #f29f05;
+}
+
+.redes-sociais {
+  margin-top: 30px;
+}
+
+/* Mapa */
+
+.mapa {
+  background-color: #f29f05;
+  width: 100%;
+}
+
+.subtitulo-mapa {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Oswald", Arial, Helvetica;
+  color: #121212;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.subtitulo-mapa:after {
+  content: "";
+  display: block;
+  width: 150px;
+  height: 3px;
+  background: white;
+  margin: 15px auto 15px auto;
+}
